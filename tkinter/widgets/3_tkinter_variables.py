@@ -9,7 +9,6 @@ window = tk.Tk()
 window.title("")
 window.geometry("500x500")
 
-
 #tkintervariable
 string_var = tk.StringVar(value = "start value")
 
@@ -19,6 +18,7 @@ label.pack()
 
 entry = ttk.Entry(window, textvariable=string_var)
 entry.pack()
+
 
 
 
