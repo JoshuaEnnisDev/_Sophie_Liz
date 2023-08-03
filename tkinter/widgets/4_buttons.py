@@ -43,6 +43,4 @@ radio1.pack()
 radio2.pack()
 
 
-
-
 window.mainloop()# make sure this is the last line
