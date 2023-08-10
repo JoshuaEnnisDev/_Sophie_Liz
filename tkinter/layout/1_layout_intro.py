@@ -17,11 +17,10 @@ label2 = ttk.Label(window, text = 'label2', background='blue')
 label3 = ttk.Label(window, text = 'label3', background='green')
 
 
-#pack
-label1.pack(side='top', expand = True, fill = 'both', padx=10, pady=10)
-
-label2.pack(side='top', expand = True, fill= 'both', padx = 10, pady=10)
-label3.pack(side='top', expand = True, fill= 'both', padx = 10, pady=10)
+# #pack
+# label1.pack(side='top', expand = True, fill = 'both', padx=10, pady=10)
+# label2.pack(side='top', expand = True, fill= 'both', padx = 10, pady=10)
+# label3.pack(side='top', expand = True, fill= 'both', padx = 10, pady=10)
 
 #grid
 #define the grid
