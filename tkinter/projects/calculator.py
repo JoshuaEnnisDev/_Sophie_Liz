@@ -34,7 +34,7 @@ def main():
     btn8 = ttk.Button(button_frame, text='8', command=lambda: press('8'))
     btn9 = ttk.Button(button_frame, text='9', command=lambda: press('9'))
     plus_btn = ttk.Button(button_frame, text='+', command=lambda: press('+'))
-    
+
     # third row
     btn4 = ttk.Button(button_frame, text='4', command=lambda: press('4'))
     btn5 = ttk.Button(button_frame, text='5', command=lambda: press('5'))
